@@ -1,0 +1,17 @@
+- name: Ayush Gundawar
+  photo: headshots/ayush-gundawar.jpeg
+  info: President
+  email: agundawar3@gatech.edu
+  website: https://www.linkedin.com/in/ayushgun
+
+- name: Nandha Thiruvengadam
+  photo: headshots/nandha-thiruvengadam.jpeg
+  info: Vice President
+  email: nkt6@gatech.edu
+  website: https://www.linkedin.com/in/nandha-thiruvengadam-0988221b9/
+
+- name: Sriharsha Kocherla
+  photo: headshots/sriharsha-kocherla.jpeg
+  info: Vice President
+  email: skocherla3@gatech.edu
+  website: https://www.linkedin.com/in/sriharsha-kocherla/
