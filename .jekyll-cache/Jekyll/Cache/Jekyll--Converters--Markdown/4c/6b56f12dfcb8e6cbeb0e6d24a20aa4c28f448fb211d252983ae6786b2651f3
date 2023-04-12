@@ -1,0 +1,33 @@
+I"~<h3 id="current-projects">Current Projects</h3>
+
+<p>GT OSS is where innovation meets impact. We empower Georgia Tech’s most passionate developers to collaborate on cutting-edge open-source projects, addressing real-world challenges with inventive solutions. We offer students unparalleled opportunities to hone their skills, develop sought-after expertise, and build an impressive resume. Join GT OSS and become part of the next generation of open-source tech visionaries, shaping the future one project at a time.</p>
+
+<div class="jumbotron">
+  <div class="col-md-12 col-sm-12">
+    <h4>Project 1</h4>
+
+    <p>Example description</p>
+
+  </div>
+  <p><button type="button" onclick="window.location.href='https://forms.google.com';" class="btn btn-success">Join Us</button></p>
+</div>
+
+<div class="jumbotron">
+  <div class="col-md-12 col-sm-12">
+    <h4>Project 2</h4>
+
+    <p>Example description</p>
+  </div>
+</div>
+
+<h3 id="past-projects">Past Projects</h3>
+
+<p>At GT OSS, we cultivate a dynamic and collaborative environment that inspires growth and innovation in the multifaceted world of computer science. Our program features six diverse projects each semester, covering various fields such as machine learning, web development, robotics, and more, offering our members a wide spectrum of challenges and learning opportunities.</p>
+
+<p>Members choose projects that resonate with their interests and goals, dedicating their efforts to create fully functional solutions by the end of the year. Through this journey, our members benefit from invaluable mentorship, a supportive community of like-minded individuals, and unparalleled access to recruiting opportunities with industry leaders.</p>
+
+<p>To celebrate our members’ achievements, GT OSS organizes project expos every semester, allowing them to showcase their groundbreaking work and inventive solutions.</p>
+
+<h3 id="future-outlook">Future Outlook</h3>
+
+:ET

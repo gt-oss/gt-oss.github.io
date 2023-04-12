@@ -1,0 +1,73 @@
+I"\<h3 id="current-projects">Current Projects</h3>
+
+<p>Our Projects highlight the innovative and cutting-edge work being done by the Open Source Software Club at Georgia Tech. Here you can explore the various projects our members are currently working on, ranging from web development to machine learning, and everything in between.</p>
+
+<p>Each project is accompanied by a brief description and the names of the team members working on it. You can also find links to the project’s GitHub repository or website, where you can learn more about the project’s goals and progress.</p>
+
+<p>We take pride in fostering an environment where members can work collaboratively and gain hands-on experience with real-world software development projects. Our Projects showcase the diverse skill sets and interests of our members, as well as the club’s dedication to advancing open source software development.</p>
+
+<div class="jumbotron">
+  <div class="col-md-12 col-sm-12">
+    <h4>Project 1</h4>
+
+    <p>Example description</p>
+
+  </div>
+  <p>-&gt;
+<button type="button" onclick="window.location.href='https://forms.google.com';" class="btn btn-success">GitHub</button></p>
+</div>
+
+<div class="jumbotron">
+  <div class="col-md-12 col-sm-12">
+    <h4>Project 2</h4>
+
+    <p>Example description</p>
+
+  </div>
+  <p>-&gt;
+<button type="button" onclick="window.location.href='https://forms.google.com';" class="btn btn-success">GitHub</button></p>
+</div>
+
+<div class="jumbotron">
+  <div class="col-md-12 col-sm-12">
+    <h4>Project 3</h4>
+
+    <p>Example description</p>
+
+  </div>
+  <p>-&gt;
+<button type="button" onclick="window.location.href='https://forms.google.com';" class="btn btn-success">GitHub</button></p>
+</div>
+
+<div class="jumbotron">
+  <div class="col-md-12 col-sm-12">
+    <h4>Project 4</h4>
+
+    <p>Example description</p>
+
+  </div>
+  <p>-&gt;
+<button type="button" onclick="window.location.href='https://forms.google.com';" class="btn btn-success">GitHub</button></p>
+</div>
+
+<h3 id="past-projects">Past Projects</h3>
+
+<p>Here is some of the exciting work our members have completed in the past. From developing useful software tools to contributing to open-source projects, our members have been involved in a wide range of projects. Explore this section to learn more about our past accomplishments and the impact we’ve made in the open-source community.</p>
+
+<div class="jumbotron">
+  <div class="col-md-12 col-sm-12">
+    <h4>Project 1</h4>
+
+    <p>Example description</p>
+
+  </div>
+  <p>-&gt;
+<button type="button" onclick="window.location.href='https://forms.google.com';" class="btn btn-success">GitHub</button></p>
+</div>
+
+<h3 id="future-outlook">Future Outlook</h3>
+
+<p>Want to see us work on a specific project in the future? Give us some suggestions bellow.</p>
+
+<p><button type="button" onclick="window.location.href='https://forms.google.com';" class="btn btn-success">Here.</button></p>
+:ET
